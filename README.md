@@ -1,1 +1,0 @@
-# jenkins-automated-deploy
